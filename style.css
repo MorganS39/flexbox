@@ -96,3 +96,13 @@ body {
       "advert content content"
       "footer footer footer";
   }
+  .container2 {
+    font-size: 40px;
+    min-height: 100px;
+    width: 100%;
+    background: silver;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(60px, 1fr));
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
