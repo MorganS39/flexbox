@@ -80,4 +80,5 @@ body {
     width: 100%;
     background: lightgray;
     display: grid;
+    grid-template-columns: 100px 100px 100px;
   }
