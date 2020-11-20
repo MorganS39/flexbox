@@ -74,6 +74,7 @@ body {
   }
   .d5 {
     background: palegreen;
+    grid-column: 2 / 4;
   }
   .container {
     font-size: 40px;
