@@ -69,6 +69,7 @@ body {
   }
   .d3 {
     background: paleturquoise;
+    align-self: end;
   }
   .d4 {
     background: lightpink;
