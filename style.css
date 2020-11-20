@@ -60,3 +60,24 @@ body {
     border: 0;
     background: transparent;
   }
+  .d1 {
+    background: lightskyblue;
+  }
+  .d2 {
+    background: lightsalmon;
+  }
+  .d3 {
+    background: paleturquoise;
+  }
+  .d4 {
+    background: lightpink;
+  }
+  .d5 {
+    background: palegreen;
+  }
+  .container {
+    font-size: 40px;
+    width: 100%;
+    background: lightgray;
+    display: grid;
+  }
