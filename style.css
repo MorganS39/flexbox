@@ -80,6 +80,7 @@ body {
     background: palegreen;
     grid-column: 2 / 4;
     grid-row: 2 / 4;
+    grid-area: footer;
   }
   .container {
     font-size: 40px;
@@ -92,6 +93,6 @@ body {
     grid-gap: 10px 20px;
     grid-template-areas: 
       "header header header"
-      ". content content"
+      "advert content content"
       "footer footer footer";
   }
