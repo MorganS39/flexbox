@@ -81,5 +81,6 @@ body {
     background: lightgray;
     display: grid;
     grid-template-columns: 1fr 100px 2fr;
-    grid-template-rows: 50px 50px;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-column-gap: 20px;
   }
