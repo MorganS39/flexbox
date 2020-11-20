@@ -118,10 +118,18 @@ body {
   .item3 {
     background: paleturquoise;
     grid-area: content;
+    display: grid;
+    grid-template-columns: auto 1fr;
   }
   .item4 {
     background: lightpink;
     grid-area: footer;
+  }
+  .itemOne {
+    background: palegreen;
+  }
+  .itemTwo {
+    background: blanchedalmond;
   }
   .container3 {
     font-size: 1.5em;
